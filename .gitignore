@@ -1,0 +1,22 @@
+# LaTeX intermediate and output files
+*.aux
+*.log
+*.out
+*.toc
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.brf
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+
+# Editor-specific files
+*.swp
+*.bak
+*.tmp
+*~
